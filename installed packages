@@ -1,0 +1,8 @@
+#  обновление менеджера пакетов
+python.exe -m pip install --upgrade pip
+
+#  библиотека aiogram
+pip install -U --pre aiogram
+
+#  переменные окружения - 2 (содержит класс Env)
+pip install environs
